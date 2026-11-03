@@ -1,0 +1,12 @@
+{
+  "description": "Trang web cá nhân của tôi",
+  "domain": "is-a.dev",
+  "subdomain": "domain",
+  "owner": {
+    "username": "kiet02",
+    "email": "nxuankiet2002@gmail.com"
+  },
+  "record": {
+    "CNAME": "kiet02.github.io"
+  }
+}
